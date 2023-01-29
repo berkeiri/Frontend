@@ -1,0 +1,28 @@
+body {
+  background-color:rgb(229, 253, 229);
+  text-align: center;
+  list-style-position: inside;
+}
+
+h1{
+  color: rgb(103, 38, 163);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2{
+  color:black;
+}
+h3{
+  color: rgb(21, 52, 59);
+  font-family: 'Courier New', Courier, monospace;
+}
+p{
+  font-size: 20px;
+  color: black;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+article{
+  font-size: 20px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: rgb(90, 98, 219);
+}
+
